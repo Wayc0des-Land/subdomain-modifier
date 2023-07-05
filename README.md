@@ -19,7 +19,7 @@ This Go script modifies a list of subdomains by removing the "http://" prefix an
    ```bash
     go run main.go
    ```
-6. The modified subdomains will be saved to a new file named modified_subdomains.txt.
+6. The modified subdomains will be saved to a new file named httpsonly.txt.
 
 ## License
 
