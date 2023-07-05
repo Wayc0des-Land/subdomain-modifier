@@ -1,0 +1,4 @@
+https://blabla.target.com
+https://aaa.blabla.target.com
+http://test.target.com
+http://test.staging.target.com
